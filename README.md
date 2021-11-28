@@ -25,3 +25,7 @@ Task 3 looks pretty good. There are some slightly fancier ways you can do it (se
 Nice job getting to the finish line.
 
 Please do that comparison analysis, but consider this complete otherwise. 
+
+## Kaylee's Note
+
+Thanks for taking the time to look this over. I've included an image of the graph created of the row count discrepancies. The issue is in 2016 months 5 and 6... I did manually swap out table names. And it was super tedious. I got to the point some answer was better than none, however I wish I would have been able to get it with the power of programing. Lesson learned. 
