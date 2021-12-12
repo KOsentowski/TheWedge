@@ -29,3 +29,7 @@ Please do that comparison analysis, but consider this complete otherwise.
 ## Kaylee's Note
 
 Thanks for taking the time to look this over. I've included an image of the graph created of the row count discrepancies. The issue is in 2016 months 5 and 6... I did manually swap out table names. And it was super tedious. I got to the point some answer was better than none, however I wish I would have been able to get it with the power of programing. Lesson learned. 
+
+## Feedback 2
+
+Sweet, thanks for doing that analysis. Great work this semester.
